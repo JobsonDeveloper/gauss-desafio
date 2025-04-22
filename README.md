@@ -54,3 +54,4 @@ Lembrando que você pode usar a api de sua escolha, não precisa usar nenhuma da
 ### Bônus
 
 - Disponibilizar o projeto com **Docker**, com instruções de execução no README
+# gauss-desafio
