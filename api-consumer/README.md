@@ -1,12 +1,10 @@
-# React + Vite
+### Projeto criado utilizando Vite, ReactJs, Material UI e a API do openweathermap.org
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# INSTRUÇÕES DE INSTALAÇÃO
 
-Currently, two official plugins are available:
+# Após fazer um clone do projeto, é necessário instalar e iniciar o NPM com os comandos:
+npm i
+npm init
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Para startar o servidor é necessário utilizar o comando:
+npm run dev
