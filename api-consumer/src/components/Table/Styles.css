@@ -1,0 +1,18 @@
+.table {
+    display: flex;
+    width: 300px;
+    height: 700px;
+    white-space:nowrap;
+}
+
+@media (min-width: 576px) {
+    .table {
+        width: 560px;
+    }
+}
+
+@media (min-width: 768px) {
+    .table {
+        width: 752px;
+    }
+}

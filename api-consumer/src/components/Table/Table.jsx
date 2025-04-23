@@ -90,7 +90,7 @@ function Table() {
   return (
     <section className="table">
       {!loading && (
-        <Paper sx={{ height: "100%", width: "100%" }}>
+        <Paper sx={{ height: "max-content", width: "100%" }}>
           <DataGrid
             rows={linhas}
             columns={columns}
